@@ -32,6 +32,11 @@ A arquitetura de 64 bits, também conhecida como x64 ou x86-64, foi introduzida 
 
 A maior vantagem da arquitetura de 64 bits é sua capacidade de acessar muito mais memória RAM do que a arquitetura de 32 bits. Os sistemas de 64 bits podem gerenciar teoricamente até 18 exabytes de RAM (isso é 18 bilhões de gigabytes), embora os limites práticos sejam muito menores devido às restrições atuais de hardware.
 
+# arquitetura arm
+ARM, originalmente Acorn RISC Machine, e depois Advanced RISC Machine, é uma família de arquiteturas RISC desenvolvida pela empresa britânica ARM Holdings. Tais arquiteturas são licenciadas pela ARM para outras empresas, que implementam-nas em seus próprios produtos. A ARM também desenvolve chips que utilizam tal arquitetura e que são licenciados para uso exclusivo de outras empresas em seus produtos.
+
+Microprocessadores com uma arquitetura RISC em geral necessitam de menos transistores do que microprocessadores CISC, como os da arquitetura x86, comumente encontrada em computadores pessoais. Essa característica permite um consumo menor, custo menor, e dissipação de calor menor, o que faz dessa arquitetura algo desejado por fabricantes de dispositivios pequenos, portáteis, e movidos a bateria, como smartphones, laptops, e outros sistemas embarcados.[1][2][3] Supercomputadores também podem se beneficiar dessas características, e alguns utilizam arquitetura ARM.[4]
+
 
 ## referencias 
 
@@ -42,4 +47,6 @@ Arquitetura. Disponível em: <https://www.significados.com.br/arquitetura/>. Ace
 
 
 INFORMÁTICA, P. C. B. Arquitetura 32 e 64 bits: Entenda as Diferenças. PC Builder, 4 maio 2023. Disponível em: <https://www.pcbuilder.com.br/post/diferenca-arquiteturas-sistemas-32-64-bits>. Acesso em: 14 set. 2023
+
+WIKIPEDIA CONTRIBUTORS. Arquitetura ARM. Disponível em: <https://pt.wikipedia.org/w/index.php?title=Arquitetura_ARM&oldid=66521622>.
 
